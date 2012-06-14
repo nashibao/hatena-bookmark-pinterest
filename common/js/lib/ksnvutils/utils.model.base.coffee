@@ -1,0 +1,1 @@
+utils.model.base.coffee

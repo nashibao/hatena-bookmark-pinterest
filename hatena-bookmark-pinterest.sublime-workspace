@@ -1,0 +1,2144 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cla",
+				"class=  (attribute)"
+			],
+			[
+				"selecte",
+				"selectedInterest"
+			],
+			[
+				"style",
+				"style=  (attribute)"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"obser",
+				"observable"
+			],
+			[
+				"intere",
+				"interests"
+			],
+			[
+				"d_in",
+				"d_interests"
+			],
+			[
+				"d_intere",
+				"d_interest"
+			],
+			[
+				"background",
+				"background-color:   (property)"
+			],
+			[
+				"is_ac",
+				"is_active_enable	(local, instance)"
+			],
+			[
+				"Search",
+				"SearchCompanyResource"
+			],
+			[
+				"class",
+				"classmethod	(builtin, class)"
+			],
+			[
+				"addi",
+				"additional_api_with_func	(local, function)"
+			],
+			[
+				"mode",
+				"model	(local, instance)"
+			],
+			[
+				"source_com",
+				"source_company"
+			],
+			[
+				"pulishe",
+				"publishedDateStr"
+			],
+			[
+				"news",
+				"news"
+			],
+			[
+				"model",
+				"modelname	(local, instance)"
+			],
+			[
+				"ali",
+				"alias_str	(local, instance)"
+			],
+			[
+				"tra",
+				"translate	(global, function)"
+			],
+			[
+				"para",
+				"params	(local, instance)"
+			],
+			[
+				"get_",
+				"get_news_data_start"
+			],
+			[
+				"u",
+				"u"
+			],
+			[
+				"coms",
+				"compscount	(local, instance)"
+			],
+			[
+				"title",
+				"titlename	(local, instance)"
+			],
+			[
+				"ut",
+				"utils"
+			],
+			[
+				"pagema",
+				"pagemanager"
+			],
+			[
+				"newsco",
+				"newscompany"
+			],
+			[
+				"source_",
+				"source_company__relation_id"
+			],
+			[
+				"artic",
+				"articles	(local, instance)"
+			],
+			[
+				"source",
+				"source_company__relation_id"
+			],
+			[
+				"loa",
+				"loads	(imported, function)"
+			],
+			[
+				"from",
+				"fromobj"
+			],
+			[
+				"auth",
+				"auth_params	(local, instance)"
+			],
+			[
+				"tempcla",
+				"tempclass	(local, instance)"
+			],
+			[
+				"query",
+				"query_string"
+			],
+			[
+				"Craw",
+				"CrawledCompany	(global, class)"
+			],
+			[
+				"request",
+				"request_type=	(parameter_keyword, instance)"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"reques",
+				"request_type"
+			],
+			[
+				"Compa",
+				"CompanyForm	(imported, class)"
+			],
+			[
+				"search",
+				"search_company"
+			],
+			[
+				"wikip",
+				"WikipediaCompany"
+			],
+			[
+				"rela",
+				"relations"
+			],
+			[
+				"observer",
+				"observers"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"observa",
+				"observable"
+			],
+			[
+				"observ",
+				"observable"
+			],
+			[
+				"map",
+				"mapall"
+			],
+			[
+				"return",
+				"returnkey"
+			],
+			[
+				"observable",
+				"observableArray"
+			],
+			[
+				"company",
+				"company_search_input"
+			],
+			[
+				"auth_",
+				"auth_json	(global, function)"
+			],
+			[
+				"Objec",
+				"ObjectDoesNotExist"
+			],
+			[
+				"short",
+				"short_name"
+			],
+			[
+				"import",
+				"import_moto"
+			],
+			[
+				"AREA",
+				"AREA_CAPITALS	(imported, instance)"
+			],
+			[
+				"wi",
+				"wikipedia"
+			],
+			[
+				"re_ka",
+				"re_kakko2	(global, instance)"
+			],
+			[
+				"raw_",
+				"raw_title"
+			],
+			[
+				"zip",
+				"zipcode"
+			],
+			[
+				"nor",
+				"normalize	(imported, function)"
+			],
+			[
+				"raw_n",
+				"raw_name"
+			],
+			[
+				"raw_name",
+				"raw_name_en"
+			],
+			[
+				"abbs",
+				"abbs_str	(local, instance)"
+			],
+			[
+				"trans",
+				"transrate_re_arr	(global, instance)"
+			],
+			[
+				"exce",
+				"except	(keyword, instance)"
+			],
+			[
+				"quote",
+				"quote_plus	(imported, function)"
+			],
+			[
+				"set_",
+				"set_trace  (function)"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"auth_j",
+				"auth_json_with_cache"
+			],
+			[
+				"erro",
+				"error_json	(global, function)"
+			],
+			[
+				"auth_json",
+				"auth_json_with_cache	(global, function)"
+			],
+			[
+				"sha",
+				"sha_constructor  (variable)"
+			],
+			[
+				"md",
+				"md5_constructor"
+			],
+			[
+				"django",
+				"djangoserialize"
+			],
+			[
+				"id",
+				"id=  (attribute)"
+			],
+			[
+				"init",
+				"initializeindex"
+			],
+			[
+				"wa",
+				"wanted_correction"
+			],
+			[
+				"unqu",
+				"unquote_plus  (function)"
+			],
+			[
+				"correctAns",
+				"correctAnswerVisible"
+			],
+			[
+				"auto_now",
+				"auto_now_add"
+			],
+			[
+				"asdfasf",
+				"adfadfadfadsfasdfadfasdfaaaaddfadfadsfadf"
+			],
+			[
+				"selected",
+				"selectedtagname"
+			],
+			[
+				"common",
+				"common_settings"
+			],
+			[
+				"_auth",
+				"_auth_api"
+			],
+			[
+				"threadid",
+				"threadid"
+			],
+			[
+				"threadi",
+				"threadid"
+			],
+			[
+				"time",
+				"DateTimeField  (class)"
+			],
+			[
+				"test",
+				"testfunc2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.coffee",
+			"settings":
+			{
+				"buffer_size": 4408,
+				"line_ending": "Unix",
+				"name": "main.coffee"
+			}
+		},
+		{
+			"file": "common/js/lib/ksnvutils/utils.api.coffee",
+			"settings":
+			{
+				"buffer_size": 2302,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bootstrap.html",
+			"settings":
+			{
+				"buffer_size": 4677,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rope",
+				"Rope: Import Assist"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indenta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git",
+				"Git: Diff All"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git diff",
+				"Git: Diff Staged"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"key bi",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"import ass",
+				"Rope: Import Assist"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"mark",
+				"Markdown Preview: current file in browser"
+			],
+			[
+				"snippet cla",
+				"Snippet: Class"
+			],
+			[
+				"symbo",
+				"Goto Symbol : Find symbol under caret..."
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"termin",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"snippet",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"def",
+				"Rope: Go to Definition"
+			],
+			[
+				"de",
+				"Rope: Go to Definition"
+			],
+			[
+				"auto",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"format",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"rop",
+				"Rope: Import Assist"
+			],
+			[
+				"ro",
+				"Rope: Import Assist"
+			],
+			[
+				"forma",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"file",
+				"File: Delete"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"cla",
+				"Snippet: New Class"
+			],
+			[
+				"class",
+				"Snippet: New Class"
+			],
+			[
+				"goto",
+				"Rope: Go to Definition"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"todo",
+				"Show TODOs: Open files only"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"go",
+				"Goto Symbol : Find symbol under caret..."
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git di",
+				"Git: Diff Staged"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"git ann",
+				"Git: Annotate"
+			],
+			[
+				"git all",
+				"Git: Graph All"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"indentatio",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sublimlint",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pontatoanpontan/lab/github/hatena-bookmark-pinterest/main.js",
+		"/Users/pontatoanpontan/lab/github/hatena-bookmark-pinterest/bootstrap.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3top/templates/sk3top/index.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/ksnvutils/utils.api.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/ksnvutils/utils.model.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/ksnvutils/utils.js",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/ksnvutils/utils.model.base.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/enterprise/account/css/style.less",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnv/views/rest.py",
+		"/Library/Python/2.7/site-packages/django/db/models/__init__.py",
+		"/Library/Python/2.7/site-packages/django/db/models/base.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3news/models.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3top/models.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/views.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/urls.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3top/views.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3top/urls.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3news/urls.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3news/views.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnv/views/session.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3searchcompany/urls.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnv/views/resource.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/knpersonal/middleware.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/common/middlewares.py",
+		"/Library/Python/2.7/site-packages/django/db/__init__.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/student/top/models/comment.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/crawl/crawlresults2/12_05_11-grss/2-日本水産.xml",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/student/top/viewmodels/news.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3news/templates/sk3news/index.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnvutils/common/models/default.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/ksnvutils/utils.ui.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/main.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/student/top/router.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/student/top/viewmodels/search_company.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/student/top/viewmodels/comment.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/student/top/models/company.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/student/top/settings.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/student/top/main.js",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/models.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3top/templates/sk3top/menu.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/.ropeproject/config.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/ksnvutils/utils.model.js",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/migrations/0001_initial.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3top/migrations/0002_auto__add_user__add_company__add_unique_company_user_source_company.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3searchcompany/templates/sk3searchcompany/index.html",
+		"/Users/pontatoanpontan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/pontatoanpontan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/sk2.sublime-project",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/comment.sublime-project",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/kncomment/models.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnvutils/common/views/json.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/kncomment/views.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/urls.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/kncomment/templates/kncomment/coffeescripts/viewmodels.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/common_settings.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/tmpls/board.tmpl",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/student/top/viewmodels/fav.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/tmpls/tinytweet3.tmpl",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/tmpls/tinytweet.tmpl",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/tmpls/board3.tmpl",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/tmpls/board2.tmpl",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/kncomment/templates/kncomment/index.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/tmpls/tweet.tmpl",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/tmpls/tinytweet4.tmpl",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/tmpls/tinytweet2.tmpl",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/top.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/my.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/index.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/board.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment/templates/sk3comment/_design.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/models.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3news/templates/sk3news/tmpls/news.tmpl",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/knmanagecompany/templates/knmanagecompany/_back/index.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/ksnvutils/utils.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/ksnvutils/utils.date.coffee",
+		"/System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/dateutil/__init__.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/knmanagecompany/models.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnvutils/common/utils/date.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/deprecated/apps/ksnvutils/utils.tool.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/deprecated/apps/ksnvutils/utils.api.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/bootstrap/lib/bootstrap.less",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnv/management/commands/ksnv_redirect_wikipedia.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnv/management/commands/ksnv_prepare_search_company.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/deprecated/apps/ksnvutils/utils.model.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnvutils/common/utils/string.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnv/models/__init__.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3searchcompany/views.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnv/management/commands/ksnv_import_raw_wikipedia.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/bootstrap/js/application.js",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnv/management/commands/ksnv_import_wikipedia.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/css/style.less",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/bootstrap/lib/variables-default.less",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/knessearch/mock/nayose/companynayose.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/bootstrap/lib/variables-simplex.less",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/kncrawl/wikipedia/splitter.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnv/migrations/0001_initial.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnv/management/commands/ksnv_prepare_names.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/kncrawl/management/commands/kncrawl_match_company.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/student/top/main.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/templates/bootstrap/examples/fluid.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/bootstrap/js/bootstrap.js",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/templates/bootstrap/download.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/templates/bootstrap/examples.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/templates/bootstrap/index.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/templates/bootstrap/examples/hero.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/templates/bootstrap/scaffolding.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/templates/bootstrap/base-css.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/templates/bootstrap/components.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/templates/bootstrap/javascript.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/templates/bootstrap/less.html",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/bootstrap/js/bootstrap.all.js",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/deprecated/apps/sk3top/viewmodels/fav.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_media/apps/sk3top/router.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_media/apps/sk3top/viewmodels/fav.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3searchcompany/templates/sk3searchcompany/tmpls/company.tmpl",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_media/apps/ksnvutils/utils.model.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_media/apps/sk3top/viewmodels/search_company.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/deprecated/js/lib/bootstrap-2/docs/assets/css/bootstrap-responsive.css",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/bootstrap/js/bootstrap-dropdown.js",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/common/js/lib/bootstrap/js/bootstrap.main.js",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_static/deprecated/js/lib/bootstrap-dropdown.js",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/bootstrap/templates/bootstrap/assets/css/docs.css",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_media/apps/ksnvutils/utils.ui.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_media/apps/ksnvutils/utils.coffee",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnvutils/models.py",
+		"/Library/Python/2.7/site-packages/django/forms/models.py",
+		"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/ksnvutils/common/views/test.py",
+		"/Users/pontatoanpontan/Dropbox/library.dash"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/sk3comment",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"height=\".*\"",
+			"{{STATIC_URL}}",
+			"__proto",
+			"User",
+			"decorated",
+			"serialize_fields",
+			"funcs",
+			"max_inde",
+			"max_in",
+			"max_inde",
+			"user",
+			"params",
+			"create",
+			"hasuser",
+			"print",
+			"post",
+			"$root.",
+			"$root",
+			"submit",
+			"map",
+			"Deffered",
+			"deffered",
+			"updatetextarea",
+			"$root",
+			"$root.selectcomp",
+			"kncomment",
+			"location",
+			"switch",
+			"app.vm",
+			"app.model.Company",
+			"app.vm",
+			"pytz",
+			"datetime",
+			"detail_item",
+			"list_items",
+			"_external_serialize_fields",
+			"print",
+			"@modelname",
+			"modelname",
+			"@modelname",
+			"modelname",
+			"returnkey",
+			"js/lib/bootstrap-2/docs",
+			"js/lib/bootstrap-2/docs/assets/js",
+			"js/lib/bootstrap-2/docs/assets/css",
+			"STATIC_URL_MOBILE",
+			"MEDIA_URL_MOBILE",
+			"MEDIA_URL",
+			"STATIC_URL",
+			" text = TextField",
+			" text =",
+			"DjangoTestSuiteRunner",
+			"utils.log",
+			"_postJSON",
+			"json2.js",
+			"ignore",
+			"is not",
+			"sourceid",
+			"source_id",
+			"datefield",
+			"shiki",
+			"sk3top",
+			"Company",
+			"company",
+			"Company",
+			"company",
+			"Company",
+			"company",
+			"sk3top",
+			"sk3",
+			"reverse",
+			"utils.log",
+			"relations",
+			"utils.log",
+			"__ko_proto__",
+			"'fn'",
+			"_bind_relations",
+			"torelations",
+			"map",
+			"torelations",
+			"ObjectDoesNotExist",
+			"unique_together",
+			"unique_toge",
+			"_dispatchall",
+			"filter",
+			"_observe",
+			"_dispatchall",
+			"_dispatchall\n_dispatchall",
+			"_dispatchall",
+			"file",
+			"move_to",
+			"move_",
+			"move",
+			"next_view",
+			"next_view_in_stack",
+			"SKAuthErrorForFunction",
+			"serializenowrapper",
+			"_detail",
+			"util.",
+			"observe",
+			"dispatchall",
+			"observe",
+			"observers",
+			"_observers",
+			"start_observe",
+			"bind_relations",
+			"_start_observe",
+			"torelations",
+			"insert",
+			"utils.log",
+			"RESTView",
+			"auth_params",
+			"url",
+			"sourceid",
+			"literal_eval",
+			"cleaned_data",
+			"clean_data",
+			"torelations",
+			"fromjs",
+			"notifySubscribers",
+			"_subscriptions",
+			"defaultEvent",
+			"computed",
+			"personals_only_with_exception",
+			"jquery",
+			"ObjectDoesNotExist",
+			"<!-- Le javascript[\\n\\s\\w\\d].*",
+			"</footer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"MEDIA_URL",
+			"sk3top",
+			" manager.getUser(",
+			"manager.getUser(",
+			"(document)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3271,
+								3271
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"text-indent": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.coffee",
+					"settings":
+					{
+						"buffer_size": 4408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3837,
+								3837
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "main.coffee",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"text-indent": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 442.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "common/js/lib/ksnvutils/utils.api.coffee",
+					"settings":
+					{
+						"buffer_size": 2302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								611
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"text-indent": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bootstrap.html",
+					"settings":
+					{
+						"buffer_size": 4677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2442,
+								2453
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"text-indent": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"boot",
+				"bootstrap.html"
+			],
+			[
+				"utilsapi",
+				"common/js/lib/ksnvutils/utils.api.coffee"
+			],
+			[
+				"main.js",
+				"main.js"
+			],
+			[
+				"styleless",
+				"sk2/_static/enterprise/account/css/style.less"
+			],
+			[
+				"utils.mode",
+				"sk2/_static/common/js/lib/ksnvutils/utils.model.coffee"
+			],
+			[
+				"utils.api",
+				"sk2/_static/common/js/lib/ksnvutils/utils.api.coffee"
+			],
+			[
+				"resource",
+				"sk2/_apps/ksnv/views/resource.py"
+			],
+			[
+				"rest.",
+				"sk2/_apps/ksnv/views/rest.py"
+			],
+			[
+				"rest",
+				"sk2/_apps/ksnv/views/rest.py"
+			],
+			[
+				"sk3topview",
+				"sk2/_apps/sk3top/views.py"
+			],
+			[
+				"sk3searchcomurl",
+				"sk2/_apps/sk3searchcompany/urls.py"
+			],
+			[
+				"sk3topurl",
+				"sk2/_apps/sk3top/urls.py"
+			],
+			[
+				"session",
+				"sk2/_apps/ksnv/views/session.py"
+			],
+			[
+				"sk3commenturl",
+				"sk2/_apps/sk3comment/urls.py"
+			],
+			[
+				"sk3commentview",
+				"sk2/_apps/sk3comment/views.py"
+			],
+			[
+				"sk3topmode",
+				"sk2/_apps/sk3top/models.py"
+			],
+			[
+				"sk3newsview",
+				"sk2/_apps/sk3news/views.py"
+			],
+			[
+				"sk3newsmode",
+				"sk2/_apps/sk3news/models.py"
+			],
+			[
+				"sk3newsurl",
+				"sk2/_apps/sk3news/urls.py"
+			],
+			[
+				"middleware",
+				"sk2/_apps/knpersonal/middleware.py"
+			],
+			[
+				"commonmiddle",
+				"sk2/_apps/common/middlewares.py"
+			],
+			[
+				"rest.p",
+				"sk2/_apps/ksnv/views/rest.py"
+			],
+			[
+				"djangodbmodels.py",
+				"django/db/models/__init__.py"
+			],
+			[
+				"djangodb__init",
+				"django/db/__init__.py"
+			],
+			[
+				"djangodb",
+				"django/db/models/base.py"
+			],
+			[
+				"sk3topmod",
+				"sk2/_apps/sk3top/models.py"
+			],
+			[
+				"comment.coff",
+				"sk2/_static/student/top/viewmodels/comment.coffee"
+			],
+			[
+				"commecoff",
+				"sk2/_static/student/top/models/comment.coffee"
+			],
+			[
+				"viewmodecomme",
+				"sk2/_static/student/top/viewmodels/comment.coffee"
+			],
+			[
+				"stusetti",
+				"sk2/_static/student/top/settings.coffee"
+			],
+			[
+				"companycoff",
+				"sk2/_static/student/top/models/company.coffee"
+			],
+			[
+				"search_co",
+				"sk2/_static/student/top/viewmodels/search_company.coffee"
+			],
+			[
+				"commencoff",
+				"sk2/_static/student/top/viewmodels/comment.coffee"
+			],
+			[
+				"studentsett",
+				"sk2/_static/student/top/settings.coffee"
+			],
+			[
+				"newscoff",
+				"sk2/_static/student/top/viewmodels/news.coffee"
+			],
+			[
+				"sk3topin",
+				"sk2/_apps/sk3top/templates/sk3top/index.html"
+			],
+			[
+				"sk3newsind",
+				"sk2/_apps/sk3news/templates/sk3news/index.html"
+			],
+			[
+				"utilsmode",
+				"sk2/_static/common/js/lib/ksnvutils/utils.model.coffee"
+			],
+			[
+				"sk3commemode",
+				"sk2/_apps/sk3comment/models.py"
+			],
+			[
+				"ksnvdefa",
+				"sk2/_apps/ksnvutils/common/models/default.py"
+			],
+			[
+				"utilsuico",
+				"sk2/_static/common/js/lib/ksnvutils/utils.ui.coffee"
+			],
+			[
+				"utilsui.coff",
+				"sk2/_static/common/js/lib/ksnvutils/utils.ui.coffee"
+			],
+			[
+				"menuhtml",
+				"sk2/_apps/sk3top/templates/sk3top/menu.html"
+			],
+			[
+				"sk3mainht",
+				"sk2/_apps/sk3comment/templates/sk3comment/main.html"
+			],
+			[
+				"commentcoff",
+				"sk2/_static/student/top/viewmodels/comment.coffee"
+			],
+			[
+				"studentroute",
+				"sk2/_static/student/top/router.coffee"
+			],
+			[
+				".rope",
+				"sk2/_apps/.ropeproject/config.py"
+			],
+			[
+				"sk3commenurl",
+				"sk2/_apps/sk3comment/urls.py"
+			],
+			[
+				"sk3commenmig",
+				"sk2/_apps/sk3comment/migrations/0001_initial.py"
+			],
+			[
+				"sk3commurl",
+				"sk2/_apps/sk3comment/urls.py"
+			],
+			[
+				"sk3commview",
+				"sk2/_apps/sk3comment/views.py"
+			],
+			[
+				"sk3menu",
+				"sk2/_apps/sk3top/templates/sk3top/menu.html"
+			],
+			[
+				"sk3topind",
+				"sk2/_apps/sk3top/migrations/0002_auto__add_user__add_company__add_unique_company_user_source_company.py"
+			],
+			[
+				"sk3searchcomind",
+				"sk2/_apps/sk3searchcompany/templates/sk3searchcompany/index.html"
+			],
+			[
+				"sk3commenmain",
+				"sk2/_apps/sk3comment/templates/sk3comment/main.html"
+			],
+			[
+				"sk3commeview",
+				"sk2/_apps/sk3comment/views.py"
+			],
+			[
+				"utilsmodel",
+				"sk2/_static/common/js/lib/ksnvutils/utils.model.coffee"
+			],
+			[
+				"utilsmodel.coff",
+				"sk2/_static/common/js/lib/ksnvutils/utils.model.coffee"
+			],
+			[
+				"utils.model",
+				"sk2/_static/common/js/lib/ksnvutils/utils.model.js"
+			],
+			[
+				"searchcomco",
+				"sk2/_static/student/top/viewmodels/search_company.coffee"
+			],
+			[
+				"sk3news",
+				"sk2/_apps/sk3news/models.py"
+			],
+			[
+				"sk3newsmo",
+				"sk2/_apps/sk3news/models.py"
+			],
+			[
+				"sk3commentmode",
+				"sk2/_apps/sk3comment/models.py"
+			],
+			[
+				"kncommentmode",
+				"sk2/_apps/kncomment/models.py"
+			],
+			[
+				"json.py",
+				"sk2/_apps/ksnvutils/common/views/json.py"
+			],
+			[
+				"sk3commeurl",
+				"sk2/_apps/sk3comment/urls.py"
+			],
+			[
+				"sturoute",
+				"sk2/_static/student/top/router.coffee"
+			],
+			[
+				"company.coff",
+				"sk2/_static/student/top/models/company.coffee"
+			],
+			[
+				"url",
+				"sk2/_apps/urls.py"
+			],
+			[
+				"kncommentview",
+				"sk2/_apps/kncomment/views.py"
+			],
+			[
+				"utils.modelco",
+				"sk2/_static/common/js/lib/ksnvutils/utils.model.coffee"
+			],
+			[
+				"sk3topinde",
+				"sk2/_apps/sk3top/templates/sk3top/index.html"
+			],
+			[
+				"kncommentinde",
+				"sk2/_apps/kncomment/templates/kncomment/index.html"
+			],
+			[
+				"setting.co",
+				"sk2/_static/student/top/settings.coffee"
+			],
+			[
+				"news",
+				"sk2/_static/student/top/viewmodels/news.coffee"
+			],
+			[
+				"commonsett",
+				"sk2/_apps/common_settings.py"
+			],
+			[
+				"mo",
+				"sk2/_apps/bootstrap/models.py"
+			],
+			[
+				"fav.co",
+				"sk2/_static/student/top/viewmodels/fav.coffee"
+			],
+			[
+				"sturouter",
+				"sk2/_static/student/top/router.coffee"
+			],
+			[
+				"newsco",
+				"sk2/_static/student/top/viewmodels/news.coffee"
+			],
+			[
+				"studentrouter",
+				"sk2/_static/student/top/router.coffee"
+			],
+			[
+				"menu.ht",
+				"sk2/_apps/sk3top/templates/sk3top/menu.html"
+			],
+			[
+				"knmanageinde",
+				"sk2/_apps/knmanagecompany/templates/knmanagecompany/_back/index.html"
+			],
+			[
+				"studentmain.js",
+				"sk2/_static/student/top/main.js"
+			],
+			[
+				"rest.py",
+				"sk2/_apps/ksnv/views/rest.py"
+			],
+			[
+				"json",
+				"sk2/_apps/ksnvutils/common/views/json.py"
+			],
+			[
+				"newstmp",
+				"sk2/_apps/sk3news/templates/sk3news/tmpls/news.tmpl"
+			],
+			[
+				"sk3newsinde",
+				"sk2/_apps/sk3news/templates/sk3news/index.html"
+			],
+			[
+				"utils.date",
+				"sk2/_static/common/js/lib/ksnvutils/utils.date.coffee"
+			],
+			[
+				"knmanagecompaymode",
+				"sk2/_apps/knmanagecompany/models.py"
+			],
+			[
+				"ksnvdate",
+				"sk2/_apps/ksnvutils/common/utils/date.py"
+			],
+			[
+				"newsmode",
+				"sk2/_apps/sk3news/models.py"
+			],
+			[
+				"sk3newstm",
+				"sk2/_apps/sk3news/templates/sk3news/tmpls/news.tmpl"
+			],
+			[
+				"sk3newsin",
+				"sk2/_apps/sk3news/templates/sk3news/index.html"
+			],
+			[
+				"utils.coff",
+				"sk2/_static/common/js/lib/ksnvutils/utils.coffee"
+			],
+			[
+				"utils.too",
+				"sk2/_static/deprecated/apps/ksnvutils/utils.tool.coffee"
+			],
+			[
+				"sk3searchind",
+				"sk2/_apps/sk3searchcompany/templates/sk3searchcompany/index.html"
+			],
+			[
+				"favcoff",
+				"sk2/_static/student/top/viewmodels/fav.coffee"
+			],
+			[
+				"searchcomcoff",
+				"sk2/_static/student/top/viewmodels/search_company.coffee"
+			],
+			[
+				"sk3inde",
+				"sk2/_apps/sk3top/templates/sk3top/index.html"
+			],
+			[
+				"news.co",
+				"sk2/_static/student/top/viewmodels/news.coffee"
+			],
+			[
+				"newsindex",
+				"sk2/_apps/sk3news/templates/sk3news/index.html"
+			],
+			[
+				"utils.ui",
+				"sk2/_static/common/js/lib/ksnvutils/utils.ui.coffee"
+			],
+			[
+				"sk3searchcominde",
+				"sk2/_apps/sk3searchcompany/templates/sk3searchcompany/index.html"
+			],
+			[
+				"json.",
+				"sk2/_apps/ksnvutils/common/views/json.py"
+			],
+			[
+				"newscof",
+				"sk2/_static/student/top/viewmodels/news.coffee"
+			],
+			[
+				"res",
+				"sk2/_apps/ksnv/views/rest.py"
+			],
+			[
+				"menuht",
+				"sk2/_apps/sk3top/templates/sk3top/menu.html"
+			],
+			[
+				"sk3newsvi",
+				"sk2/_apps/sk3news/views.py"
+			],
+			[
+				"ksnvstri",
+				"sk2/_apps/ksnvutils/common/utils/string.py"
+			],
+			[
+				"ksnvmode",
+				"sk2/_apps/ksnv/models/__init__.py"
+			],
+			[
+				"compcoff",
+				"sk2/_static/student/top/models/company.coffee"
+			],
+			[
+				"utils.modelcoff",
+				"sk2/_static/deprecated/apps/ksnvutils/utils.model.coffee"
+			],
+			[
+				"ksnvmod",
+				"sk2/_apps/ksnv/models/__init__.py"
+			],
+			[
+				"sk3searchview",
+				"sk2/_apps/sk3searchcompany/views.py"
+			],
+			[
+				"ksnvredi",
+				"sk2/_apps/ksnv/management/commands/ksnv_redirect_wikipedia.py"
+			],
+			[
+				"ksnv_import_wiki",
+				"sk2/_apps/ksnv/management/commands/ksnv_import_wikipedia.py"
+			],
+			[
+				"vaables-sim",
+				"sk2/_static/common/js/lib/bootstrap/lib/variables-simplex.less"
+			],
+			[
+				"vari",
+				"sk2/_static/common/js/lib/bootstrap/lib/variables-default.less"
+			],
+			[
+				"style",
+				"sk2/_static/common/css/style.less"
+			],
+			[
+				"bootstrap.less",
+				"sk2/_static/common/js/lib/bootstrap/lib/bootstrap.less"
+			],
+			[
+				"splitt",
+				"sk2/_apps/kncrawl/wikipedia/splitter.py"
+			],
+			[
+				"nayose",
+				"sk2/_apps/knessearch/mock/nayose/companynayose.py"
+			],
+			[
+				"ksnvstrin",
+				"sk2/_apps/ksnvutils/common/utils/string.py"
+			],
+			[
+				"kncrawlmo",
+				"sk2/_apps/kncrawl/management/commands/kncrawl_match_company.py"
+			],
+			[
+				"router",
+				"sk2/_static/student/top/router.coffee"
+			],
+			[
+				"fluid",
+				"sk2/_apps/bootstrap/templates/bootstrap/examples/fluid.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"sk2",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/sk2.sublime-project"
+			],
+			[
+				"oc",
+				"/Users/pontatoanpontan/lab/octopress/octopress.sublime-project"
+			],
+			[
+				"octo",
+				"/Users/pontatoanpontan/lab/octopress/octopress.sublime-project"
+			],
+			[
+				"",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/nodetest/foo/foo.sublime-project"
+			],
+			[
+				"foo",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/nodetest/foo/foo.sublime-project"
+			],
+			[
+				"comme",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/comment.sublime-project"
+			],
+			[
+				"comm",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/comment.sublime-project"
+			],
+			[
+				"senk",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/senko.sublime-project"
+			],
+			[
+				"com",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/comment.sublime-project"
+			],
+			[
+				"senko",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/senko.sublime-project"
+			],
+			[
+				"sen",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/senko.sublime-project"
+			],
+			[
+				"co",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/comment.sublime-project"
+			],
+			[
+				"c",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/comment.sublime-project"
+			],
+			[
+				"comment",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/comment.sublime-project"
+			],
+			[
+				"se",
+				"/Users/pontatoanpontan/lab/scubism/projects/sk/server/sk2/_apps/knsenko/templates/knsenko/senko.sublime-project"
+			]
+		],
+		"width": 956.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}
